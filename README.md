@@ -8,7 +8,7 @@ I prefer to attach a link here. [*Markdown*]:http://daringfireball.net/projects/
 Maybe its useful for anyone who watches this paper.
 
 Except for the reasons above, the most importantly, this profile is an introdution about me to be inspected by my **lovely and respectable teacher**.
-![呵呵]（http://att.bbs.duowan.com/forum/201311/06/143629blkknmb28og64o8g.jpg)  
+![呵呵](http://att.bbs.duowan.com/forum/201311/06/143629blkknmb28og64o8g.jpg)  
 
 In the following,I will give a shoot about me：
 
