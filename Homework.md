@@ -5,8 +5,9 @@
 纯手工代码：[名字代码.py](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/%E5%90%8D%E5%AD%97%E4%BB%A3%E7%A0%81.py)
 ![alt text](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/%E5%90%8D%E5%AD%97.png)
 ##作业L2 在屏幕上用字符拼出任意次序的字母
-[字母程序.py](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/%E5%AD%97%E6%AF%8D%E7%A8%8B%E5%BA%8F.py）
-附图：![alt text](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/%E5%AD%97%E6%AF%8D%E7%A8%8B%E5%BA%8F.png）
+[字母程序.py](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/%E5%AD%97%E6%AF%8D%E7%A8%8B%E5%BA%8F.py)  
+
+附图:![alt text](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/%E5%AD%97%E6%AF%8D%E7%A8%8B%E5%BA%8F.png)
 ##作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
 
 
