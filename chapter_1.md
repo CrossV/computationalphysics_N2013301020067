@@ -28,7 +28,11 @@ i从1循环到n，每次增加dt的时间
 
 将v-t曲线绘制出来  
 ##结果
-程序链接：[chapter1.py][https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/chapter1.py]  
+程序链接:[chapter1.py]( https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/chapter1.png)
 
-效果图：![](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/chapter1.png）
+效果图：![alt text](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/chapter1.png)  
+
+##分析
+*由python数据可知，一段时间后，速度达到平衡点约为9.9999.....m/s，但由于系统误差，即：每次时间段不是无限小。导致小数点后第八位开始是不断变化的，即速度不是完全不变的。但是结果在误差范围之内。*  
+另外，感谢13级59号同学。
 
