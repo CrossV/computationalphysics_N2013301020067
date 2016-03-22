@@ -28,5 +28,7 @@ i从1循环到n，每次增加dt的时间
 
 将v-t曲线绘制出来  
 ##结果
+程序链接：[chapter1.py][https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/chapter1.py]  
 
+效果图：![](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/chapter1.png）
 
