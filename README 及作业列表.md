@@ -26,6 +26,8 @@ In the following,I will give a shoot about me：
 *****END*****
 
 以下是作业的超链接：  
+[第七次作业](https://www.zybuluo.com/mdeditor#371408)
+
 [第六次作业](https://www.zybuluo.com/CrossV/note/349450)  
 
 [前三次作业](https://github.com/CrossV/computationalphysics_N2013301020067/blob/master/%E5%89%8D%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)  
