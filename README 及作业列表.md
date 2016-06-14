@@ -26,7 +26,9 @@ In the following,I will give a shoot about me：
 *****END*****
 
 以下是作业的超链接：  
-[第十次作业](https://www.zybuluo.com/mdeditor#407512)
+[第十一次作业](https://www.zybuluo.com/mdeditor#407775)
+
+[第十次作业](https://www.zybuluo.com/CrossV/note/407512)
 
 [第九次作业](https://www.zybuluo.com/CrossV/note/384826)
 
