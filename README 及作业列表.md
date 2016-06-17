@@ -26,6 +26,17 @@ In the following,I will give a shoot about me：
 *****END*****
 
 以下是作业的超链接：  
+
+期末作业
+
+第十七次作业，听讲座。
+
+第十六次作业，听讲座。
+
+第十五次作业，因故取消。
+
+第十四次作业
+
 [第十三次作业](https://www.zybuluo.com/mdeditor#409906)
 
 [第十二次作业](https://www.zybuluo.com/CrossV/note/408892)
