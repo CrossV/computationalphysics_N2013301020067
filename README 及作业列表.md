@@ -37,9 +37,9 @@ In the following,I will give a shoot about me：
 
 不知道为什么文件传不了，真是无语了。
 
-第十四次作业
+[第十四次作业](https://www.zybuluo.com/mdeditor#411657)
 
-[第十三次作业](https://www.zybuluo.com/mdeditor#409906)
+[第十三次作业](https://www.zybuluo.com/CrossV/note/409906)
 
 [第十二次作业](https://www.zybuluo.com/CrossV/note/408892)
 
