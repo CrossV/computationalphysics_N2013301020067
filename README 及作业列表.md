@@ -25,7 +25,7 @@ In the following,I will give a shoot about me：
 ####I am available at this E-mail :<994215635@qq.com>
 *****END*****
 
-以下是作业的超链接：  
+以下是作业的超链接：[](https://www.zybuluo.com/mdeditor#411763)  
 
 期末作业
 
@@ -35,7 +35,7 @@ In the following,I will give a shoot about me：
 
 第十五次作业，因故取消。
 
-[第十四次作业](https://www.zybuluo.com/mdeditor#411657)
+[第十四次作业](https://www.zybuluo.com/CrossV/note/411657)
 
 不是校园网文件上传出现错误，真是无语了。
 
