@@ -35,9 +35,9 @@ In the following,I will give a shoot about me：
 
 第十五次作业，因故取消。
 
-不知道为什么文件传不了，真是无语了。
-
 [第十四次作业](https://www.zybuluo.com/mdeditor#411657)
+
+不是校园网文件上传出现错误，真是无语了。
 
 [第十三次作业](https://www.zybuluo.com/CrossV/note/409906)
 
