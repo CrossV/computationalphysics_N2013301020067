@@ -25,10 +25,11 @@ In the following,I will give a shoot about me：
 ####I am available at this E-mail :<994215635@qq.com>
 *****END*****
 
+
 *Ps:亲爱的老师，我准备出国读研，作业和期末都完成了，希望能在给定的范围内适当给高一点分数，谢谢老师。*
 以下是作业的超链接：
 
-[期末](https://www.zybuluo.com/mdeditor#411763)  
+[期末](https://www.zybuluo.com/CrossV/note/411763)  
 
 第十七次作业，听讲座。
 
